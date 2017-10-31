@@ -1,4 +1,4 @@
 # regression
-univariate lineare Regression
-multivariate lineare Regression
+univariate lineare Regression <br>
+multivariate lineare Regression <br>
 logistische Regression
